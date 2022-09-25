@@ -1,0 +1,20 @@
+# get http://localhost:5000
+
+# POST http://localhost:5000/projects
+# Content-Type: application/json
+
+# {
+#     "title": "sokunmaru1",
+#     "description": "sokunmaru"
+# }
+
+
+# post http://localhost:5000/projects/
+# Content-Type: application/json
+
+# {
+#     "title": "aha",
+#     "description": "oho"
+# }
+
+# get http://localhost:5000/projects
